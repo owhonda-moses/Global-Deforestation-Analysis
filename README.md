@@ -26,68 +26,68 @@ In a bid to raise awareness about the subject, make informed decisions to help c
 
 
 * **What was the total forest area (in sq km) of the world in 2016?**
-<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot445_.png" width="520" height="170" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot445_.png?raw=true" width="520" height="170" />
 
 
 * **What was the change (_in sq km_) in the forest area of the world from 1990 to 2016?**
-<img src="images/Screenshot446.png" width="560" height="380" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot446.png?raw=true" width="560" height="380" />
 
 
 * **What was the percent change in forest area of the world between 1990 and 2016?**
-<img src="images/Screenshot447.png" width="900" height="420" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot447.png?raw=true" width="900" height="420" />
 
 
 * **Comparing the amount of forest area lost between 1990 and 2016, to which country's total area in 2016 is it closest to?**
-<img src="images/Screenshot448.png" width="900" height="420" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot448.png?raw=true" width="900" height="420" />
 
 * **
 
 ## <a id="region"></a> `Regional`
 * **Create a table that shows the Regions and their percent forest area from 1990 to 2016.**
-<img src="images/Screenshot449_1.png" width="720" height="300" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot449_1.png?raw=true" width="720" height="300" />
 
 
 * **What was the percent forest of the entire world in 2016?**
-<img src="images/Screenshot450_.png" width="550" height="170" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot450_.png?raw=true" width="550" height="170" />
 
 
 * **Which region had the HIGHEST percent forest in 2016, and which had the LOWEST?**
-<img src="images/Screenshot451.png" width="550" height="370" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot451.png?raw=true" width="550" height="370" />
 
 
 * **What was the percent forest of the entire world in 1990?**
-<img src="images/Screenshot452.png" width="460" height="170" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot452.png?raw=true" width="460" height="170" />
 
 
 * **Which region had the HIGHEST percent forest in 1990, and which had the LOWEST?**
-<img src="images/Screenshot453.png" width="550" height="380" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot453.png?raw=true" width="550" height="380" />
 
 
 * **Which regions of the world DECREASED in forest area from 1990 to 2016?**
-<img src="images/Screenshot454.png" width="580" height="400" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot454.png?raw=true" width="580" height="400" />
 
 
 * **
 
 ## <a id="country"></a> `Country`
 * **Which 5 countries saw the largest amount decrease in forest area from 1990 to 2016? _What was the difference in forest area for each?_**
-<img src="images/Screenshot455.png" width="700" height="420" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot455.png?raw=true" width="700" height="420" />
 
 
 * **Which 5 countries saw the largest percent decrease in forest area from 1990 to 2016? _What was the percent change for each?_**
-<img src="images/Screenshot456.png" width="800" height="490" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot456.png?raw=true" width="800" height="490" />
 
 
 * **If countries were grouped by percent forestation in quartiles, which group had the most countries in it in 2016?**
-<img src="images/Screenshot457.png" width="680" height="420" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot457.png?raw=true" width="680" height="420" />
 
 
 * **List all of the countries that were in the 4th quartile (_percent forest > 75%_) in 2016.**
-<img src="images/Screenshot458.png" width="660" height="380" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot458.png?raw=true" width="660" height="380" />
 
 
 * **How many countries had a percent forestation higher than the United States in 2016?**
-<img src="images/Screenshot459.png" width="500" height="250" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/masterimages/Screenshot459.png?raw=true" width="500" height="250" />
 
 
 ## <a id="conclusions"></a> CONCLUSIONS
@@ -102,7 +102,7 @@ From the exploratory analysis, we gathered that:
 
 #### PACKAGES USED:
 
-- PostgreSQL
+- `PostgreSQL`
 
 _References used for this repository include:_
 - https://dba.stackexchange.com/
