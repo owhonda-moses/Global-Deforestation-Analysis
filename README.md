@@ -15,13 +15,13 @@
 > This repo contains the SQL queries used to analyze Global deforestation data between 1990 and 2016 by regions and countries as obtained from the World Bank.
 In a bid to raise awareness about the subject, make informed decisions to help combat deforestation, and in light of the increasing adverse effects of human activities and climate change on the environment, we set out on this exploration to gain insights into the countries with diminishing forest areas as well those with vast proportions of forest area and their respective regions. The analysis is structured from `global` to `regional` and `country` geographical outlooks.
 >>
-![alt text](images/Screenshot463.png?raw=true)
+![](https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/master/images/Screenshot463.png?raw=true)
 
 
 ## <a id="globe"></a> `Global`
 
 * **What was the total forest area (in sq km) of the world in 1990?**
-<img src="images/Screenshot444_.png?raw=true" width="500" height="170" />
+<img src="Global Deforestation Project/images/Screenshot444_.png?raw=true" width="500" height="170" />
 
 
 * **What was the total forest area (in sq km) of the world in 2016?**
