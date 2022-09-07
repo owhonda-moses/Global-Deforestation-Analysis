@@ -30,7 +30,7 @@ In a bid to raise awareness about the subject, make informed decisions to help c
 
 
 * **What was the change (_in sq km_) in the forest area of the world from 1990 to 2016?**
-<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/master/images/Screenshot446.png?raw=true" width="560" height="380" />
+<img src="https://raw.githubusercontent.com/owhonda-moses/Global-Deforestation-Analysis/master/images/Screenshot446.png?raw=true" width="580" height="380" />
 
 
 * **What was the percent change in forest area of the world between 1990 and 2016?**
@@ -97,7 +97,7 @@ From the exploratory analysis, we gathered that:
 * The *Sub-Saharan Africa* and *Latin America and the Caribbean* regions had declining percentages of forest area between 1990 and 2016 while the reverse was the case for all other regions.
 * *Brazil* recorded the largest absolute decrease in forest area between 1990 and 2016 while *Togo* recorded the largest proportion decrease in forest between both time periods. However, *Nigeria* appears on both lists of countries with highest deforestation.
 * As at 2016, 85 countries or about 41% of all countries fall in the first quartile range of countries with highest forestation. Countries with the highest percentage of land area designated as forest fall in the fourth quartile including - _Palau_, _Solomon Islands_, _Micronesia, Fed. Sts_, _Lao PDR_, _Seychelles_, _Gabon_, _American Samoa_, _Suriname_, and _Guyana._
-> More focus should be placed on countries in the _East Asia & Pacific_ region as most of these countries have recorded the most forestation over time and could initiate corrective measures on a global scale. Conversely, countries in the _Sub-Saharan Africa_ and _Latin America and the Caribbean_ regions are becoming big concerns, having the most diminishing forest areas and in dire need of remedial efforts.
+> More focus should be placed on countries in the _East Asia & Pacific_ region as most of these countries have recorded the most forestation over time and could foster and guide corrective measures on a global scale. Conversely, countries in the _Sub-Saharan Africa_ and _Latin America and the Caribbean_ regions are becoming big concerns, having the most diminishing forest areas and in dire need of remedial efforts.
 
 
 #### PACKAGES USED:
