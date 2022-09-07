@@ -21,7 +21,7 @@ In a bid to raise awareness about the subject, make informed decisions to help c
 ## <a id="globe"></a> `Global`
 
 * **What was the total forest area (in sq km) of the world in 1990?**
-<img src="images/Screenshot444_.png" width="500" height="170" />
+<img src="images/Screenshot444_.png?raw=true" width="500" height="170" />
 
 
 * **What was the total forest area (in sq km) of the world in 2016?**
