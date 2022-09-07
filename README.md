@@ -13,9 +13,9 @@
 ## INTRODUCTION
 
 > This repo contains the SQL queries used to analyze Global deforestation data between 1990 and 2016 by regions and countries as obtained from the World Bank.
-In a bid to raise awareness about the subject, make informed decisions to help combat deforestation, and in light of the adverse effect of human activities and climate change on the environment, we set out on this exploration to gain insights into the countries with diminishing forest areas as well those with vast proportions of forest area and their respective regions. The analysis is structured from `global` to `regional` and `country` geographical outlooks.
+In a bid to raise awareness about the subject, make informed decisions to help combat deforestation, and in light of the increasing adverse effects of human activities and climate change on the environment, we set out on this exploration to gain insights into the countries with diminishing forest areas as well those with vast proportions of forest area and their respective regions. The analysis is structured from `global` to `regional` and `country` geographical outlooks.
 >>
-![alt text](images/Screenshot463.png)
+![alt text](images/Screenshot463.png?raw=true)
 
 
 ## <a id="globe"></a> `Global`
@@ -92,11 +92,11 @@ In a bid to raise awareness about the subject, make informed decisions to help c
 ## <a id="conclusions"></a> CONCLUSIONS
 From the exploratory analysis, we gathered that:
 * The World's total forest area shrunk to 39,958,245.9 _sq.km_ in 2016 from  41,282,694.9 _sq.km_ in 1990; a 3.2% or 1,324,449 _sq.km_ decrease, almost equivalent to the entire land area of Peru.
-* In the year 2016, the proportion of the World's total land area designated as forest was 31.38% against 32.42% in 1990. With decreasing proportion of forest areas within both time periods, *Latin America and the Caribbean* recorded the highest forestation, while *Middle East and North Africa* had the lowest relative forestation.
-* The *Sub-Saharan Africa* and *Latin America and the Caribbean* regions decreased in percentage of forest area between 1990 and 2016 while the reverse was the case for all other regions.
+* In the year 2016, the proportion of the World's total land area designated as forest was 31.38% against 32.42% in 1990. Within both time periods and with decreasing proportion of forest areas, *Latin America and the Caribbean* recorded the highest forestation, while *Middle East and North Africa* had the lowest relative forestation.
+* The *Sub-Saharan Africa* and *Latin America and the Caribbean* regions had declining percentages of forest area between 1990 and 2016 while the reverse was the case for all other regions.
 * *Brazil* recorded the largest absolute decrease in forest area between 1990 and 2016 while *Togo* recorded the largest proportion decrease in forest between both time periods. However, *Nigeria* appears on both lists of countries with highest deforestation.
-* As at 2016, 85 or about 41% of all countries fall in the first quartile range of countries with highest forestation. Countries with the highest percentage of land area designated as forest fall in the fourth quartile including - _Palau_, _Solomon Islands_, _Micronesia, Fed. Sts_, _Lao PDR_, _Seychelles_, _Gabon_, _American Samoa_, _Suriname_, and _Guyana._
-> More focus should be placed on countries in the _East Asia & Pacific_ region as most of these countries have recorded the most forestation over time and could initiate corrective measures on a global scale. On the other hand, countries in the _Sub-Saharan Africa_ and _Latin America and the Caribbean_ regions are becoming big concerns, having the most diminishing forest areas and in dire need of remedial efforts.
+* As at 2016, 85 countries or about 41% of all countries fall in the first quartile range of countries with highest forestation. Countries with the highest percentage of land area designated as forest fall in the fourth quartile including - _Palau_, _Solomon Islands_, _Micronesia, Fed. Sts_, _Lao PDR_, _Seychelles_, _Gabon_, _American Samoa_, _Suriname_, and _Guyana._
+> More focus should be placed on countries in the _East Asia & Pacific_ region as most of these countries have recorded the most forestation over time and could initiate corrective measures on a global scale. Conversely, countries in the _Sub-Saharan Africa_ and _Latin America and the Caribbean_ regions are becoming big concerns, having the most diminishing forest areas and in dire need of remedial efforts.
 
 
 #### PACKAGES USED:
